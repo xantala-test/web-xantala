@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Xantala</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Xantala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ipsum</title>
+      <link>https://example.org/tags/ipsum/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://example.org/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoguitos</title>
+      <link>https://example.org/tags/yoguitos/</link>
+      <pubDate>Sun, 15 Jul 2018 01:49:17 +0200</pubDate>
+      
+      <guid>https://example.org/tags/yoguitos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

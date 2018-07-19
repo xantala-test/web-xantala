@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xantala</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Xantala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 01:49:17 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yoguitos</title>
+      <link>https://example.org/blog/2018-07-01-yoguitos/</link>
+      <pubDate>Sun, 15 Jul 2018 01:49:17 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2018-07-01-yoguitos/</guid>
+      <description>Aquest estiu Yoguitos (http://www.yoguitos.com/casalitos/) ofereix un casal de joc a Xantala.
+Si estàs interessat/da pots trucar a: Clara Valera 717 778 006
+Més informació a continuació: El lugar:
+Escuelita Xantala: ( Pere IV, 190 ), un espacio increíble, enorme, con un gran patio, con un arenal muy grande y un espacio que nos permite correr, saltar, jugar con elementos naturales y hacer todos nuestros fantásticos talleres.
+Las fechas: Del 25 de junio al 27 de julio 2018 ( siempre por semana completa ).</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://example.org/blog/migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://example.org/blog/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/objectius/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/objectius/</guid>
+      <description>Quins son els nostres objectius?  L’amor i el respecte per cada un dels éssers del nostre entorn. Infants, familia, acompanyants, voluntaris,… Mantenir viu l’impuls vital de cada infant per desenvolupar les seves capacitats intrínseques. Acollir l’etapa de la globalitat. Integrem les dimensions cognitives, físiques, emocionals, expressives i socials de l’infant. Sota una mirada global. L’acompanyament emocional. Totes les emocions són incloses i acceptades. A través de poder viure les emocions, l’infant va ampliant el seu mapa emocional i es pot relacionar amb el seu entorn i amb si mateix d’una manera més íntegre.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/que-pensem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/que-pensem/</guid>
+      <description>Què pensem ?  A Xantala creiem que s’han de reconèixer els drets i la protecció a la infància i les seves famílies. Sabem que cuidar els nostres nens i nenes, és cuidar el nostre futur com a societat.
+  Dret de les mares i les seves famílies a ser informades i a escollir l’opció de part, alletament, criança, i escolarització de forma responsable i lliure sense coaccions ni limitacions per part del sistema sanitari o educatiu.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://example.org/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+  </channel>
+</rss>

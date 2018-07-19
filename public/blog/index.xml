@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Xantala</title>
+    <link>https://example.org/blog/</link>
+    <description>Recent content in Blogs on Xantala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 01:49:17 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yoguitos</title>
+      <link>https://example.org/blog/2018-07-01-yoguitos/</link>
+      <pubDate>Sun, 15 Jul 2018 01:49:17 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2018-07-01-yoguitos/</guid>
+      <description>Aquest estiu Yoguitos (http://www.yoguitos.com/casalitos/) ofereix un casal de joc a Xantala.
+Si estàs interessat/da pots trucar a: Clara Valera 717 778 006
+Més informació a continuació: El lugar:
+Escuelita Xantala: ( Pere IV, 190 ), un espacio increíble, enorme, con un gran patio, con un arenal muy grande y un espacio que nos permite correr, saltar, jugar con elementos naturales y hacer todos nuestros fantásticos talleres.
+Las fechas: Del 25 de junio al 27 de julio 2018 ( siempre por semana completa ).</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://example.org/blog/migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://example.org/blog/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+  </channel>
+</rss>
