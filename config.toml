@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://pedantic-beaver-c70381.netlify.com"
 title = "Xantala"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
