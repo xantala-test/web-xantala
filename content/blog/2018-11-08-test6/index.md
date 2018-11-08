@@ -1,6 +1,6 @@
 ---
 title: "Yoguitos"
-date: 2018-11-8T17:45:00+02:00
+date: 2018-11-08 17:45:00+02:00
 draft: false
 tags: [yoguitos]
 categories: [casal]
