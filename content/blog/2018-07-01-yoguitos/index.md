@@ -14,7 +14,7 @@ Aquest estiu Yoguitos (http://www.yoguitos.com/casalitos/) ofereix un casal de j
 Si estàs interessat/da pots trucar a: Clara Valera 717 778 006
 
 Més informació a continuació:
-El lugar: 
+El lugar:
 
 Escuelita Xantala: ( Pere IV, 190 ), un espacio increíble, enorme, con un gran patio, con un arenal muy grande y un espacio que nos permite correr, saltar, jugar con elementos naturales y hacer todos nuestros fantásticos talleres.
 

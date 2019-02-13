@@ -1,4 +1,7 @@
 # Quins son els nostres objectius?
+
+<img src='http://www.xantala.es/wp-content/uploads/2012/10/xantala-2012-dins.jpg' class='img-responsive pull-left' alt='Responsive image'>
+
 * L’amor i el respecte per cada un dels éssers del nostre entorn. Infants, familia, acompanyants, voluntaris,…
 * Mantenir viu l’impuls vital de cada infant per desenvolupar les seves capacitats intrínseques.
 * Acollir l’etapa de la globalitat. Integrem les dimensions cognitives, físiques, emocionals, expressives i socials de l’infant. Sota una mirada global.
